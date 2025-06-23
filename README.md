@@ -21,5 +21,6 @@ It currently demonstrates:
 - Implement editorial-friendly features: tag-based filtering, internal tags, members-only content  
 - Document theme structure and key helpers for maintainability  
 - Improve visual presentation and mobile responsiveness  
+- Change ridiculous author photo
 
 This is a work in progress and will continue to evolve.
