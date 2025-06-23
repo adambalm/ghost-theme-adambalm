@@ -1,8 +1,8 @@
 # ghost-theme-adambalm
 
-This is a lightly customized fork of the official Ghost `Dawn` theme, created as part of a job application project.
+This is a lightly customized fork of the official Ghost `Dawn` theme, created as part of a job application.
 
-The purpose of this repo is to demonstrate:
+So far we have documented:
 
 - Hands-on familiarity with Ghost CMS theming and structure
 - Git-based theme management and deployment
@@ -14,5 +14,14 @@ The live site is deployed at:
 ?? **[adambalm.ghost.io](https://adambalm.ghost.io)**
 
 You can preview the theme source code from the site's navigation under **“View Theme Code.”**
+
+## To-Do
+
+- [ ] Add `routes.yaml` to support future custom routing
+- [ ] Improve mobile header spacing and logo sizing
+- [ ] Replace placeholder images and polish visuals
+- [ ] Implement GitHub Actions + Admin API for CI-based deploys
+- [ ] Document key theme helpers and partials used
+
 
 More updates coming soon.
