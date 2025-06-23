@@ -7,6 +7,7 @@ It currently demonstrates:
 - Familiarity with Ghost CMS theming and structure  
 - Git-based theme management and deployment  
 - Template editing using `.hbs` files, partials, and helpers  
+- Custom routing via `routes.yaml`  
 - Navigation updates and conditional rendering  
 - Local development with `.zip` deployment and GitHub versioning  
 
@@ -16,11 +17,9 @@ It currently demonstrates:
 ---
 
 ## To-Do
-
-- Add `routes.yaml` to support custom routing  
-- Improve mobile header spacing and logo sizing  
-- Replace placeholder images and polish visuals  
-- Set up GitHub Actions + Admin API for CI-based deploys  
-- Document key theme helpers and partials used  
+- Set up GitHub Actions + Admin API for CI-based theme deployment  
+- Implement editorial-friendly features: tag-based filtering, internal tags, members-only content  
+- Document theme structure and key helpers for maintainability  
+- Improve visual presentation and mobile responsiveness  
 
 This is a work in progress and will continue to evolve.
