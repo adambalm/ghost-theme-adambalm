@@ -43,7 +43,7 @@ For the Render-based deployment configuration:
 - [ ] Set up GitHub Actions + Admin API for CI-based theme deployment
 - [ ] Implement editorial-friendly features: tag-based filtering, internal tags, members-only content
 - [ ] Document theme structure and key helpers for maintainability
-- [ ] Set-up custom domain and redirect to deployed site.
+- [ ] Set-up custom domain and redirect to deployed site
 - [ ] Change ridiculous author photo
 
 ---
