@@ -6,7 +6,7 @@ This is a lightly customized fork of the official [Ghost Dawn theme](https://git
 
 ##  Purpose
 
-This theme powers both a **Ghost(Pro)** site and a new **containerized, Docker-based deployment**, which is currently under development. The Ghost(Pro) instance was created first to allow early submission of application materials. Development then shifted to the self-hosted instance to reflect a more production-relevant deployment workflow.
+This theme powers both a **Ghost(Pro)** site and a new **containerized, Docker-based deployment**, which is currently under development. The Ghost(Pro) instance was created first to allow early submission of application materials under local hardware constraints. Development then shifted to the self-hosted instance to reflect a more production-relevant deployment workflow.
 
 ---
 
